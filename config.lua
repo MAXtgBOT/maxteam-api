@@ -1,8 +1,9 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '197006323:AAHYU21sP7qUtc3dTYZwSK9CcLVtKbAWf3s
+',
 	time_offset = 0,
-	admin = 23646077,
-	channel = '@groupbutler_ch', --channel username with the '@'
+	admin = 205903314,
+	channel = '@iroTEAM', --channel username with the '@'
 	languages = 'languages.lua',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
